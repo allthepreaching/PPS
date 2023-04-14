@@ -1,2 +1,2 @@
-# PPS
-PastorPozarnskySermons.com
+# pastorandersonsermons
+PastorAndersonSermons.com
